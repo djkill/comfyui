@@ -6,7 +6,11 @@
 
 
 NODES=(
-    "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/ltdrdata/ComfyUI-Manager",
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes",
+    "https://github.com/WASasquatch/was-node-suite-comfyui",
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 )
 
 CHECKPOINT_MODELS=(
