@@ -14,8 +14,11 @@ NODES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt",
-    "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/53515/dreamshaperxlTurbo.kZuE.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22dreamshaperXL_turboDpmppSDE.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20240101/us-east-1/s3/aws4_request&X-Amz-Date=20240101T123630Z&X-Amz-SignedHeaders=host&X-Amz-Signature=602181b4339c557dcfbaa51101affbd02b2c876b94e0c08b2953f9965e90baaf",
+   # "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt",
+    "",
+    "",
+    "",
+    "",
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
