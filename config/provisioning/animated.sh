@@ -58,8 +58,8 @@ fi
 
 ## Standard
 # v1-5-pruned-emaonly
-model_file=${checkpoints_dir}/v1-5-pruned-emaonly.ckpt
-model_url=https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+model_file=${checkpoints_dir}/Deliberate_v5.safetensors
+model_url=https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5.safetensors"
 
 if [[ ! -e ${model_file} ]]; then
     printf "Downloading Stable Diffusion 1.5...\n"
