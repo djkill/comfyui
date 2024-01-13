@@ -7,16 +7,16 @@
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
-    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    #"https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
+    #"https://github.com/WASasquatch/was-node-suite-comfyui"
     #"https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 )
 
 CHECKPOINT_MODELS=(
    # "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/DreamShaper_8_pruned.safetensors"
-    #"https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
+    "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
     #"https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5-inpainting.safetensors"
     #"https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5.safetensors"
     #"",
