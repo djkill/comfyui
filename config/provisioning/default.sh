@@ -7,9 +7,10 @@
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    #"https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
-    #"https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/Fannovel16/comfyui_controlnet_aux"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     #"https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 )
 
@@ -18,7 +19,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/DreamShaper_8_pruned.safetensors"
     #"https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
     #"https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5-inpainting.safetensors"
-    #"https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5.safetensors"
+    "https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v5.safetensors"
     #"",
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
